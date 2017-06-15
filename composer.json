@@ -16,5 +16,5 @@
             "MTC\\" : "src/MTC"
         }
     },
-    "minimum-stability": "dev"
+    "minimum-stability": "stable"
 }
