@@ -15,5 +15,7 @@
         "psr-4" : {
             "MTC\\" : "src/MTC"
         }
-    }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
 }
