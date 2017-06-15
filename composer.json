@@ -1,0 +1,19 @@
+{
+    "name": "mayronceccon/coordenadas",
+    "description": "Busca de Coordenadas e Endereços",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Mayron Ceccon",
+            "email": "mayron.ceccon@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.0"
+    },
+    "autoload" : {
+        "psr-4" : {
+            "MTC\\" : "src/MTC"
+        }
+    }
+}
